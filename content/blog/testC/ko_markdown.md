@@ -1,7 +1,7 @@
 ---
 title: 'ko_마크다운'
 date: '2020-07-16'
-category: 'sample'
+category: 'testC'
 cover: '../images/markdown.jpg'
 private: false
 ---
@@ -377,10 +377,9 @@ __double underscores__
 <img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="altText"></img>
 ```
 
-<img src="https://blogfiles.pstatic.net/MjAyMDA4MDJfMjcz/MDAxNTk2MzYyMTc2MzQ0.nX-wiHvHH10gPKqRvc2Moofzmy-AHmCI6-NCb3MzlBEg.iWnzSo9sixeqru5N1nDjI-Esw3cW4NmrilZMAQKXzzog.JPEG.bjkim0228/bjun-02802.jpg?type=w1" width="450px" height="300px" alt="railay"/>
+<img src="https://i.ibb.co/GsF2zjC/bjun-02802.jpg" width="450px" height="300px" alt="railay" border="0" />
 <br/>
-<img src="https://blogfiles.pstatic.net/MjAyMDA3MzBfNjAg/MDAxNTk2MDY5NDAyODY2.cQyPMGVlD_V7mzdZar4IKSBK9rLbw8r3t30QJHh2pr4g.f5jo7y5_SmYEyikhBYqV2vPjSsHEWHkfXC3DpdjO4IAg.JPEG.bjkim0228/bjun-02802.jpg?type=w1" width="40%" height="30%" alt="railay"/>
-
+<img src="https://i.ibb.co/GsF2zjC/bjun-02802.jpg" width="40%" height="30%" alt="railay" border="0" />
 ## 2.9. 줄바꿈
 
 3칸 이상 띄어쓰기(``)를 하면 줄이 바뀐다.
